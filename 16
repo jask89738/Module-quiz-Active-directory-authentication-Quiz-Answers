@@ -1,0 +1,60 @@
+Question 1)
+True or False:SSO requires a user to authenticate periodically when using different applications.
+
+True
+False
+Question 2)
+Which environments would you most likely use Azure AD pass-through authentication?
+
+Cloud-based Active Directory
+Hybrid Active Directory
+On-premises Active Directory
+Question 3)
+Complete the following sentence. Azure AD _______ Synchronization ensures that passwords are stored in both an on-premises AD and Azure AD, and stay secret and synchronized.
+
+Hash
+Credential
+Change
+Question 4)
+Which of these statements best describes MFA?
+
+MFA stands for Multi-Factor Authentication and uses two or more alternative means of authentication.
+MFA stands for Multi-Factor Authentication, and it uses Biometric to provide authentication
+MFA stands for Multi-function Authentication; one login can be used to access different applications.
+Question 5)
+After you enter the password for logging into your company account, you are prompted to press your finger against the scanning element of your device. In the context of multi-factor authentication (MFA), which statement best describes the type of information that you have been asked for?
+
+Something you know
+Something you have
+Something you are
+Question 6)
+Which of the following sentences best describes Conditional Access?
+
+Requiring robust, unique passwords and monitoring user activity.
+A cloud-based service that uses machine learning and data analytics to identify deviant behavior.
+Tracking and limiting user access under some conditions.
+Question 7)
+In order to enable users to get back into their accounts quickly after forgetting their passwords while also lightening the workload of the organization’s IT staff, which feature would you implement?
+
+Self-service password reset (SSPR)
+Password Writeback
+AD Connect Cloud Sync
+Question 8)
+Which of the following situations can be configured in SSPR? Select all that apply.
+
+Password reset
+Password writeback
+Password unlock
+Password validation
+Question 9)
+You are configuring authentication for the point-of-sale devices at Sam’s Scoops. Because of the fast-paced working environment, employees would like to gain entry to these devices as quickly as possible. Which of the following forms of identification best meets this need?
+
+PIN
+Password
+Facial recognition
+Question 10)
+For accessing sensitive resources, you have decided to implement an authentication method that sends a one-time passcode (OTP) to the user requesting access, which the user must then input at the login page. Which method does this describe?
+
+OATH hardware tokens
+FIDO authentication
+SMS-based authentication
